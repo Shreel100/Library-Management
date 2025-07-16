@@ -24,7 +24,6 @@ public class DBManager {
             }
 
             char[] password = console.readPassword("Enter your password: ");
-            System.out.println("Password entered.");
 
             String PASS = new String(password);
 

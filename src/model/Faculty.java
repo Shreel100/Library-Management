@@ -16,5 +16,4 @@ public class Faculty extends User {
     public int getMaxBorrowLimit() {
         return 5;
     }
-
 }
